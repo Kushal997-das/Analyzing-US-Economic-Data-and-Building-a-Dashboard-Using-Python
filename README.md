@@ -20,9 +20,9 @@
  
  - Here is my certificate
  
- <img align='center' alt="GIF" width='450px' src="https://github.com/Kushal997-das/IBM-final-project/blob/master/IBM%20certificate/Capture123434.JPG"> <br> <br>
+ <img align='center' alt="GIF" width='400px' src="https://github.com/Kushal997-das/IBM-final-project/blob/master/IBM%20certificate/Capture123434.JPG"> <br> <br>
  
  - My IBM badge
  
- <img align='center' alt="GIF" width='450px' src="https://github.com/Kushal997-das/IBM-final-project/blob/master/IBM%20certificate/python-for-data-science-and-ai.png"> <br> <br>
+ <img align='center' alt="GIF" width='277px' src="https://github.com/Kushal997-das/IBM-final-project/blob/master/IBM%20certificate/python-for-data-science-and-ai.png"> <br> <br>
  
