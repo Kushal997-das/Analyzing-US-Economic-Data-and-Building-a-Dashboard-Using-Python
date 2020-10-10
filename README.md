@@ -12,7 +12,8 @@
 > <a href="https://github.com/Kushal997-das/IBM-final-project/blob/master/finalproject/22%20.JPG">Solution-3</a>
 - Question 4: Use the function make_dashboard to make a dashboard
 > <a href="https://github.com/Kushal997-das/IBM-final-project/blob/master/finalproject/25%20.JPG">Solution-4</a>
- 
+
+- <a href="https://github.com/Kushal997-das/Analyzing-US-Economic-Data-and-Building-a-Dashboard-Using-Python--IBM-/blob/master/finalproject/Python%20IBM.ipynb">Click here for overall solution </a>
  
  ### final output -
  
